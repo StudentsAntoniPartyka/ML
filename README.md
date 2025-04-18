@@ -11,3 +11,7 @@ homework 4: https://github.com/StudentsAntoniPartyka/ML/blob/main/homework4.ipyn
 homework 5:
 
 https://github.com/StudentsAntoniPartyka/ML/blob/main/Pd5.ipynb
+
+homework 6:
+
+https://github.com/StudentsAntoniPartyka/ML/blob/main/hw6.ipynb
