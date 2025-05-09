@@ -23,3 +23,7 @@ https://github.com/StudentsAntoniPartyka/ML/blob/main/pd7.ipynb
 homework 8:
 
 https://github.com/StudentsAntoniPartyka/ML/blob/main/homework8.ipynb
+
+homework 9:
+
+https://github.com/StudentsAntoniPartyka/ML/blob/main/homework9.ipynb
