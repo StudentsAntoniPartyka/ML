@@ -31,3 +31,7 @@ https://github.com/StudentsAntoniPartyka/ML/blob/main/homework9.ipynb
 homework 10:
 
 https://github.com/StudentsAntoniPartyka/ML/blob/main/pd10.ipynb
+
+homework 11:
+
+https://github.com/StudentsAntoniPartyka/ML/blob/main/homework11.ipynb
