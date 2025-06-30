@@ -1,4 +1,4 @@
-# ML
+9# ML
 ML2025
 
 https://colab.research.google.com/drive/1vyMzXnWrhLDnb-1kTD9GZ8HfuTnbVyZD#scrollTo=7GaODJLxLXM9
@@ -35,3 +35,7 @@ https://github.com/StudentsAntoniPartyka/ML/blob/main/pd10.ipynb
 homework 11:
 
 https://github.com/StudentsAntoniPartyka/ML/blob/main/homework11.ipynb
+
+homework 12:
+
+https://github.com/StudentsAntoniPartyka/ML/blob/main/Untitled14.ipynb
